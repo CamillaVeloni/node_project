@@ -1,0 +1,182 @@
+[
+    {
+      "name": "Brisa Tropical de Baunilha",
+      "description": "Um sorvete de baunilha com um toque de tropicalidade. Aproveite a suavidade da baunilha em harmonia com pedaços de frutas tropicais frescas, proporcionando uma explosão de sabores.",
+      "price": 9,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "baunilha"
+    },
+    {
+      "name": "Delícia Gelada de Baunilha",
+      "description": "Uma combinação refrescante de baunilha cremosa com um toque tropical. Desfrute da suavidade da baunilha enquanto se transporta para uma ilha paradisíaca.",
+      "price": 7.5,
+      "discountPrice": 6.5,
+      "isHotSale": true,
+      "image": "",
+      "category": "baunilha"
+    },
+    {
+      "name": "Suave Sabor de Baunilha",
+      "description": "Um sorvete cremoso de baunilha com um toque tropical suave. Deleite-se com a suavidade da baunilha combinada com uma pitada de frescor das frutas tropicais.",
+      "price": 8.5,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "baunilha"
+    },
+    {
+      "name": "Sabor Praiano",
+      "description": "Um sorvete refrescante com o sabor doce e suculento do morango, inspirado nas praias paradisíacas. Uma explosão de sabores tropicais para refrescar seu paladar.",
+      "price": 8.9,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "morango"
+    },
+    {
+      "name": "Tropical Sunset",
+      "description": "Um sorvete de morango com um toque tropical, como uma viagem à beira-mar. Desfrute da combinação perfeita de frescor e doçura nesse momento de prazer gelado.",
+      "price": 9.5,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "morango"
+    },
+    {
+      "name": "Maravilha de Morango",
+      "description": "Um sorvete que traz toda a essência do mar em cada colherada. Com o sabor intenso do morango e um toque de frescor, essa delícia vai te transportar para a praia dos seus sonhos.",
+      "price": 7.99,
+      "discountPrice": 6.99,
+      "isHotSale": true,
+      "image": "",
+      "category": "morango"
+    },
+    {
+      "name": "Refrescante Tropical",
+      "description": "Um sorvete de morango com notas tropicais, perfeito para se refrescar nos dias quentes. Desfrute do equilíbrio entre a doçura do morango e a sensação revigorante desse sabor único.",
+      "price": 8.5,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "morango"
+    },
+    {
+      "name": "Onda Azul",
+      "description": "Um sorvete refrescante com sabor de frutas tropicais, como abacaxi, kiwi e coco. Sua tonalidade azul representa a beleza do mar tropical.",
+      "price": 12.5,
+      "discountPrice": null,
+      "isHotSale": true,
+      "image": "",
+      "category": "vários sabores"
+    },
+    {
+      "name": "Arco-Íris Tropical",
+      "description": "Um sorvete colorido com sabores variados, como abacaxi, coco, maracujá e kiwi. Sua combinação de tonalidades azul, verde e rosa representa a diversidade e a alegria dos destinos tropicais.",
+      "price": 13.75,
+      "discountPrice": 11.5,
+      "isHotSale": true,
+      "image": "",
+      "category": "vários sabores"
+    },
+    {
+      "name": "Sorvete Monstro das Profundezas",
+      "description": "Um sorvete intrigante de matcha e abacaxi, com uma tonalidade azul intensa. Inspirado nas criaturas míticas do mar, essa opção promete surpreender o paladar com uma combinação única.",
+      "price": 12.5,
+      "discountPrice": null,
+      "isHotSale": true,
+      "image": "",
+      "category": "vários sabores"
+    },
+    {
+      "name": "Tropical Bliss",
+      "description": "Um sorvete de coco com uma tonalidade azul vibrante, inspirado nas paisagens tropicais exuberantes. Com um sabor suave e delicado, proporciona uma experiência refrescante única.",
+      "price": 8.5,
+      "discountPrice": 7.99,
+      "isHotSale": false,
+      "image": "",
+      "category": "coco"
+    },
+    {
+      "name": "Brilho do Verão",
+      "description": "Um sorvete com tonalidade amarelo suave e casca de sorvete, trazendo a alegria e o brilho do verão tropical. Com um sabor doce e refrescante, é uma explosão de sabores tropicais em cada colherada.",
+      "price": 8.5,
+      "discountPrice": 7.99,
+      "isHotSale": false,
+      "image": "",
+      "category": "manga"
+    },
+    {
+      "name": "Menta Tropicana",
+      "description": "Um sorvete refrescante que combina o sabor suave da menta com a doçura irresistível do morango. Sinta-se transportado para uma praia tropical com cada colherada desse delicioso sorvete.",
+      "price": 9.99,
+      "discountPrice": null,
+      "isHotSale": true,
+      "image": "",
+      "category": "menta"
+    },
+    {
+      "name": "Refrescância Tropical",
+      "description": "Um sorvete com sabor de menta e morango, trazendo a refrescância e a doçura dos sabores tropicais em cada colherada. Perfeito para dias quentes à beira-mar, esse sorvete irá surpreender o seu paladar.",
+      "price": 8.99,
+      "discountPrice": null,
+      "isHotSale": true,
+      "image": "",
+      "category": "menta"
+    },
+    {
+      "name": "Tropical Sensação",
+      "description": "Um sorvete com sabor de baunilha e morango, levando você a uma viagem de sabores tropicais. Com a suavidade da baunilha e a intensidade do morango, esse sorvete é uma verdadeira explosão de sabores à beira-mar.",
+      "price": 9.99,
+      "discountPrice": 8.25,
+      "isHotSale": true,
+      "image": "",
+      "category": "baunilha"
+    },
+    {
+      "name": "Crocância Tropical",
+      "description": "Um sorvete tropical e crocante! A combinação perfeita de baunilha cremosa e pedaços crocantes, inspirada nas belas praias tropicais. Delicie-se com esse sorvete refrescante e sinta a crocância tropical em cada mordida.",
+      "price": 7.99,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "baunilha"
+    },
+    {
+      "name": "Chocovanilla",
+      "description": "Um sorvete tropical com o irresistível sabor do chocolate e da baunilha. Delicie-se com essa combinação perfeita que remete às belas praias tropicais. A cada colherada, você sentirá uma explosão de sabores que irá te transportar para um verdadeiro paraíso.",
+      "price": 8.99,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "chocolate"
+    },
+    {
+      "name": "Mar de Chocomorango",
+      "description": "Um sorvete refrescante que combina o sabor delicioso do chocolate com a suavidade do morango, envolvido por uma casca de sorvete crocante. Inspirado nas praias tropicais, esse sorvete é uma verdadeira explosão de sabores. A cada mordida, você será transportado para um ambiente paradisíaco.",
+      "price": 10.99,
+      "discountPrice": 8.99,
+      "isHotSale": true,
+      "image": "",
+      "category": "chocolate"
+    },
+    {
+      "name": "Baunilha com Explosão de Chocolate",
+      "description": "Um sorvete tropical que une o clássico sabor da baunilha com uma explosão de lascas de chocolate. Cada colherada é uma surpresa de texturas e sabores, com a suavidade da baunilha se complementando com o chocolate crocante. Desfrute desse momento de prazer em um ambiente tropical.",
+      "price": 7.99,
+      "discountPrice": null,
+      "isHotSale": false,
+      "image": "",
+      "category": "chocolate"
+    },
+    {
+      "name": "Tentação Tríplice: Baunocha e Cereja",
+      "description": "Um sorvete tropical que combina a suavidade da baunilha com o sabor intenso do chocolate e a doçura da cereja. Cada colherada é uma verdadeira explosão de sabores, com a cremosidade da baunilha se misturando harmoniosamente com o chocolate e o toque frutado da cereja. Desfrute dessa combinação divina em um ambiente paradisíaco.",
+      "price": 9.99,
+      "discountPrice": null,
+      "isHotSale": true,
+      "image": "",
+      "category": "chocolate"
+    }
+  ]
