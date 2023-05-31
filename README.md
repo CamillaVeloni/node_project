@@ -38,7 +38,7 @@ Data products
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[insta-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[insta-url]: https://www.instagram.com/camillaveloni/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/camilla-cristina-lima-veloni-5021a320b/
 [product-screenshot]: images/screenshot.png
